@@ -71,8 +71,8 @@ const s1spa = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s1spa&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=07070a&title_color=ff2a3a&icon_color=ff2a3a&text_color=f4ecec&ring_color=ff2a3a&border_color=3a0d12&border_radius=14" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1spa&layout=compact&langs_count=8&bg_color=07070a&title_color=ff2a3a&text_color=f4ecec&border_color=3a0d12&border_radius=14" height="170" alt="Top languages">
+<img src="profile/stats.svg" height="170" alt="GitHub stats">
+<img src="profile/top-langs.svg" height="170" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=s1spa&background=07070a&border=3a0d12&stroke=3a0d12&ring=ff2a3a&fire=ff2a3a&currStreakNum=fff3f3&sideNums=fff3f3&currStreakLabel=ff2a3a&sideLabels=c99ea3&dates=8f7d80&border_radius=14" alt="Contribution streak">
 
