@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/illya-avdosev-845b0932a"><img src="https://img.shields.io/badge/LinkedIn-Illia%20Avdosiev-ff2a3a?style=for-the-badge&labelColor=07070a&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:avdosevg@gmail.com"><img src="https://img.shields.io/badge/email-avdosevg%40gmail.com-ff2a3a?style=for-the-badge&labelColor=07070a&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
+ 
 </div>
 
 ---
