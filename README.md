@@ -14,7 +14,7 @@
 
 <h2>// whoami</h2>
 
-<img src="assets/whoami.svg" width="100%" alt="const s1spa = { name: Illia Avdosiev, role: Game & app developer, builds: games, apps, Discord bots, mods; experience: Infinium Game Studio, Kness; education: VNTU — Master's, Software Engineering; status: open to junior roles }">
+<img src="assets/whoami.svg" width="100%" alt="const s1spa = { name: Illia Avdosiev, role: Game & app developer, builds: games, apps, Discord bots, mods; experience: Infinium Game Studio, Kness; education: VNTU — Master's, Software Engineering; status: open to work }">
 
 <h2>// stack</h2>
 
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/SQLite-07070a?style=for-the-badge&logo=sqlite&logoColor=ff2a3a" alt="SQLite">
   <img src="https://img.shields.io/badge/PostgreSQL-07070a?style=for-the-badge&logo=postgresql&logoColor=ff2a3a" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-07070a?style=for-the-badge&logo=docker&logoColor=ff2a3a" alt="Docker">
-  <img src="https://img.shields.io/badge/Blender-07070a?style=for-the-badge&logo=blender&logoColor=ff2a3a" alt="Blender">
   <img src="https://img.shields.io/badge/Git-07070a?style=for-the-badge&logo=git&logoColor=ff2a3a" alt="Git">
 </p>
 
